@@ -57,6 +57,3 @@ python -m XGBoost_Model_ML
 python -m XGBoost_Model_UO
 ```
 
-## Contributing
-
-All contributions welcomed and encouraged.
